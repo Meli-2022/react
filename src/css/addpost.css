@@ -1,0 +1,17 @@
+label{
+    display: block
+
+
+}
+.btn{
+    display: block;
+    background-color: greenyellow;
+    margin-top: 5px;
+    border: 10px;
+    width: 250px;
+    margin-left: 60px;
+}
+input[type='text']{
+    width: 400px;
+    border-radius: 8px;
+}
